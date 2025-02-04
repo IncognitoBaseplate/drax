@@ -3603,7 +3603,7 @@ local nigga = (function() -- src/Lua/loader.lua
     loaderOptions:new()
     
     local info_text_table = {
-        "Welcome Useycscccccccccccccccccccccccccccccccycyccccccxxyr",
+        "Welcome User",
         "Loaded Da Hood Version",
         "Version 1.0"
     }
